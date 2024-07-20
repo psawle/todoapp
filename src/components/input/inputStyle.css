@@ -1,0 +1,18 @@
+.input-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 20px;
+}
+
+.input-text{
+    padding: 12px 20px ;
+    text-align: center;
+    margin-left: 418px;
+    width: 462px;
+}
+
+.errMsg{
+    color: red;
+    display: block;
+}
